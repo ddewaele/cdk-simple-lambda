@@ -1,8 +1,5 @@
-# Welcome to your CDK TypeScript project
+# Welcome to a simple CDK TypeScript project with a lambda
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
 
